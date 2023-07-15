@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/intro-component-with-signup-form-react-tailwindcss-sSI8WL6TbB](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-react-tailwindcss-sSI8WL6TbB)
+- Live Site URL: [https://michaellei-intro-signup-form.netlify.app/](https://michaellei-intro-signup-form.netlify.app/)
 
 ## Built with
 
